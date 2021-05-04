@@ -61,7 +61,7 @@
 
 .drop-container ul ul {
   position: absolute;
-  top: 33px;
+  top: 100%;
   left: -111111px;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .drop-container ul ul li:hover ul {
-  left: 160px;
+  left: 100%;
 }
 
 .drop-container ul ul li:hover ul a {

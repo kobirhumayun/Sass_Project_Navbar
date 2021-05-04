@@ -50,7 +50,7 @@
 
         ul {
             position: absolute;
-            top: 33px;
+            top: 100%;
             left: -111111px;
 
             li:hover {
@@ -59,7 +59,7 @@
                 }
 
                 ul {
-                    left: 160px;
+                    left: 100%;
 
                     a {
                         color: $normal-drop-color;
